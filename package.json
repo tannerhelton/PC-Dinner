@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://tannerhelton.github.io/PC-Dinner",
+  "homepage": "https://tannerhelton.github.io/PC-Dinner",
   "eslintConfig": {
     "extends": [
       "react-app",
